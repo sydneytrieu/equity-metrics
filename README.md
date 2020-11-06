@@ -1,1 +1,1 @@
-# data-angels
+# HPS-equity-metrics
