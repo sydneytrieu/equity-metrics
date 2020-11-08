@@ -1,1 +1,1 @@
-# HPS-equity-metrics
+equity-metrics
