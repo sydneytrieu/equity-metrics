@@ -1,4 +1,4 @@
-# Household Pulse Survey
+# Household Pulse Survey data
 
 ## Directory Structure
 | Folder | Description |
